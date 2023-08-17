@@ -4,7 +4,7 @@ h1{
     color: rgb(255, 255, 255);
 }
 body {
-    background-color: rgb(65, 111, 165);
+    background-color: rgb(1, 10, 20);
 }
 .gato {
     width: 20%;
@@ -14,7 +14,7 @@ body {
 }
 
 .nãosei {
-background-color: rgb(97, 12, 12)
+background-color: rgb(114, 139, 250)
 border: 2px;
 }
 
