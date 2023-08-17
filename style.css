@@ -8,5 +8,16 @@ body {
 }
 .gato {
     width: 20%;
+    left: 50%;
+    height: 20%;
+
 }
 
+.nãosei {
+background-color: rgb(97, 12, 12)
+border: 2px;
+}
+
+button{
+    display: inline-block;
+}
